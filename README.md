@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Parves and I'm a Full Stack Web Developer. I'm a hardworking, enthusiastic learner and I'm always looking for opportunities to learn new technologies. 
+My name is Momota Khatun and I'm a Web Designer. I'm a hardworking, enthusiastic learner and I'm always looking for opportunities to learn new technologies. 
 ## Bio
 - ⚙️ I use daily: `.html`, `.css`, `.js`
 - 🌱 I’m currently learning **CSS, Javascript**
